@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnyWhere_AutoTXT.FileMove">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyWhere_AutoTXT.flag">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAApAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>flag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyWhere_AutoTXT.GetFile">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAEA=</HashCode>
+      <FileName>GetFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyWhere_AutoTXT.LostStationSeek">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LostStationSeek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyWhere_AutoTXT.Program">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyWhere_AutoTXT.WriteText">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAIAAAAAIAAIAAAAAAAA=</HashCode>
+      <FileName>WriteText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
